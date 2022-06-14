@@ -68,6 +68,18 @@ Recopilación de como fue grabar la película House of Gucci. Entrevistas, perso
  
 ****
 
+### JULIANA CAVALCANTI
+https://www.juliana-cavalcanti.com/
+
+
+Portfolio de la empresa Juliana Cavalcanti, donde se muestran sus servicios y proyectos realizados. 
+
+| *Aspectos positivos*  | *Aspectos negativos* | 
+| ------------- |-------------| 
+| Página principal muy visual y simple. Pocos elementos y mucho espacio. Puedes acceder a todas las partes de la web desde la página principal. En el apartado de proyectos poder saltar de uno a otro de forma fácil. | Fotografías no van linkadas a ninguna parte de la página. falta de formas de intgeracción de una página a la web sin necesidad de volver a la página prinicpal.| 
+ 
+****
+
 
 ### DIANA MANGANO + REVISE
 https://reviseconcept.it/company-profile/
@@ -80,6 +92,34 @@ Portfolio de la marca Diana Mangano. Expone las distintas colecciones.
 | *Aspectos positivos*  | *Aspectos negativos* | 
 | ------------- |-------------| 
 | Págin sobria y muy visual. Simplicidad de la página otorga mayor protagonismo a los diseños. Consta de un menú básico pero efectivo, con las distintas coleciones e infomración más relevante. | Ausencia de información básica de la marca en la página prinicipal, con la que poder hacerte una idea de como es la marca si es la primera vez que visitas o conoces la marca. | 
+ 
+****
+
+### GIMAGUAS
+https://gimaguas.com/
+
+
+
+
+Página web de la marca española Gimaguas. Venta de ropa y de un estilo de vida determinado. 
+
+| *Aspectos positivos*  | *Aspectos negativos* | 
+| ------------- |-------------| 
+|Menú completamente visible en la página principal, donde al selecionar aparecen los subapartados. Página inicial visual.| Única retícula, muy cuadrada, empleada en toda la página hace que se haga repetitivo y demasiado monotono. | 
+ 
+****
+
+### JDC
+https://jdcdesignstudio.com/index.html
+
+
+
+
+Porfolio profesional donde se exponen todos los proyectos realizados por JDC Design Studio. 
+
+| *Aspectos positivos*  | *Aspectos negativos* | 
+| ------------- |-------------| 
+|Página principal muy gráfica; donde no aparecen los proyectos. Solo carta de presentación. El scroll nos permite navegar por las distintas partes de forma sencilla. | Al entrar a la página aparece un loading que molesta y distorsiona. | 
  
 ****
 
