@@ -81,20 +81,6 @@ Portfolio de la empresa Juliana Cavalcanti, donde se muestran sus servicios y pr
 ****
 
 
-### DIANA MANGANO + REVISE
-https://reviseconcept.it/company-profile/
-
-
-
-
-Portfolio de la marca Diana Mangano. Expone las distintas colecciones. 
-
-| *Aspectos positivos*  | *Aspectos negativos* | 
-| ------------- |-------------| 
-| Págin sobria y muy visual. Simplicidad de la página otorga mayor protagonismo a los diseños. Consta de un menú básico pero efectivo, con las distintas coleciones e infomración más relevante. | Ausencia de información básica de la marca en la página prinicipal, con la que poder hacerte una idea de como es la marca si es la primera vez que visitas o conoces la marca. | 
- 
-****
-
 ### GIMAGUAS
 https://gimaguas.com/
 
@@ -106,6 +92,21 @@ Página web de la marca española Gimaguas. Venta de ropa y de un estilo de vida
 | *Aspectos positivos*  | *Aspectos negativos* | 
 | ------------- |-------------| 
 |Menú completamente visible en la página principal, donde al selecionar aparecen los subapartados. Página inicial visual.| Única retícula, muy cuadrada, empleada en toda la página hace que se haga repetitivo y demasiado monotono. | 
+ 
+****
+
+
+### DIANA MANGANO + REVISE
+https://reviseconcept.it/company-profile/
+
+
+
+
+Portfolio de la marca Diana Mangano. Expone las distintas colecciones. 
+
+| *Aspectos positivos*  | *Aspectos negativos* | 
+| ------------- |-------------| 
+| Págin sobria y muy visual. Simplicidad de la página otorga mayor protagonismo a los diseños. Consta de un menú básico pero efectivo, con las distintas coleciones e infomración más relevante. | Ausencia de información básica de la marca en la página prinicipal, con la que poder hacerte una idea de como es la marca si es la primera vez que visitas o conoces la marca. | 
  
 ****
 
