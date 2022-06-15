@@ -44,10 +44,13 @@ La semana que viene tiene un matrimonio y esta en búsqueda de unos aretes para 
 ## ANTECEDENTES
 
 ### PEAM DESIGN
+
+
+
+
+
+
 https://peam-design.de
-
-
-
 Portfolio de los distintos productos de la marca de productos de diseño Peam.
 
 | *Aspectos positivos*  | *Aspectos negativos* | 
