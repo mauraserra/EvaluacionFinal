@@ -49,6 +49,7 @@ La semana que viene tiene un matrimonio y esta en búsqueda de unos aretes para 
 
 
 https://peam-design.de
+
 Portfolio de los distintos productos de la marca de productos de diseño Peam.
 
 | *Aspectos positivos*  | *Aspectos negativos* | 
@@ -58,8 +59,10 @@ Portfolio de los distintos productos de la marca de productos de diseño Peam.
 ****
 
 ### A LOOK INSIDE HOUSE OF GUCCI
-https://www.welcometothehouseofgucci.com
 
+<img width="1273" alt="ex2" src="https://user-images.githubusercontent.com/102669659/173710497-3c1fd24d-55fc-4aba-9659-4f209f0e0724.png">
+
+https://www.welcometothehouseofgucci.com
 
 Recopilación de como fue grabar la película House of Gucci. Entrevistas, personajes, vestimenta... 
 
@@ -70,8 +73,11 @@ Recopilación de como fue grabar la película House of Gucci. Entrevistas, perso
 ****
 
 ### JULIANA CAVALCANTI
-https://www.juliana-cavalcanti.com/
 
+<img width="1267" alt="ex3" src="https://user-images.githubusercontent.com/102669659/173710515-e5464c0c-a1fe-4df9-97cc-7a6620678952.png">
+
+
+https://www.juliana-cavalcanti.com/
 
 Portfolio de la empresa Juliana Cavalcanti, donde se muestran sus servicios y proyectos realizados. 
 
@@ -83,10 +89,11 @@ Portfolio de la empresa Juliana Cavalcanti, donde se muestran sus servicios y pr
 
 
 ### GIMAGUAS
+
+<img width="1268" alt="ex4" src="https://user-images.githubusercontent.com/102669659/173710557-548bde3b-f1d9-4c90-a005-4c9cbec53486.png">
+
+
 https://gimaguas.com/
-
-
-
 
 Página web de la marca española Gimaguas. Venta de ropa y de un estilo de vida determinado. 
 
@@ -98,10 +105,11 @@ Página web de la marca española Gimaguas. Venta de ropa y de un estilo de vida
 
 
 ### DIANA MANGANO + REVISE
+
+<img width="1263" alt="ex5" src="https://user-images.githubusercontent.com/102669659/173710582-b468aa0a-5ae3-4cf8-8edc-803f8319f97f.png">
+
+
 https://reviseconcept.it/company-profile/
-
-
-
 
 Portfolio de la marca Diana Mangano. Expone las distintas colecciones. 
 
@@ -112,10 +120,11 @@ Portfolio de la marca Diana Mangano. Expone las distintas colecciones.
 ****
 
 ### JDC
+
+<img width="1269" alt="ex6" src="https://user-images.githubusercontent.com/102669659/173710592-7a1c8700-e8b5-4568-ba23-b3b828fae590.png">
+
+
 https://jdcdesignstudio.com/index.html
-
-
-
 
 Porfolio profesional donde se exponen todos los proyectos realizados por JDC Design Studio. 
 
