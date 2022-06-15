@@ -134,6 +134,12 @@ Porfolio profesional donde se exponen todos los proyectos realizados por JDC Des
  
 ****
 
+## MOODBOARD
+
+![Panel de tendencias 3000x2000 px](https://user-images.githubusercontent.com/102669659/173712627-3e980577-a4a6-42b9-a9ad-ff274008073f.jpeg)
+
+
+
 
 
 
