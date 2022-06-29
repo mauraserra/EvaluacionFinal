@@ -23,15 +23,15 @@
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js" integrity="sha512-rKFvwjvE4liWPlFnvH4ZhRDfNZ9FOpdkD/BU5gAIA3VS3vOQrQ5BjKgbO3kxebKhHdHcNUHLqxQYSoxee9UwgA==" crossorigin="anonymous"></script>
         <script>
-            Papa.parse("https://raw.githubusercontent.com/mauraserra/EvaluacionFinal/main/bisuteria.csv", {
+            Papa.parse("https://raw.githubusercontent.com/mauraserra/EvaluacionFinal/main/complementos.csv", {
                 download: true,
                 header: true,
                 dynamicTyping: true,
                 complete: function (respuesta) {
-                    var bisuteria = respuesta.data;
-                    console.log(bisuteria);
-                    bisuteria.forEach(function (modelo, i) {
-                        document.querySelector("main").innerHTML += "<article><a href='modelo.html?nro=" + i + "'><img src='images/" + modelo.pic + "'><div><h2>" + modelo.name + "</h2></div></article>";
+                    var complementos = respuesta.data;
+                    console.log(complementos);
+                    complementos.forEach(function (modelo3, i) {
+                        document.querySelector("main").innerHTML += "<article><a href='modelo3.html?nro=" + i + "'><img src='images/" + modelo3.pic + "'><div><h2>" + modelo3.name + "</h2></div></article>";
                     });
                 },
             });
