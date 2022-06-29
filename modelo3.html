@@ -10,7 +10,7 @@
     <body>
         <div class="container">
             <nav>
-                <p><a href="index.html" class="active">Maka'i Collection</a> <a href="bisuteria.html">Bisutería</a> <a href="Ropa.html">Ropa</a> <a href="Complementos.html">Complementos</a></p>
+              <p><a href="index.html" class="active">Maka'i Collection</a> <a href="bisuteria.html">Bisutería</a> <a href="ropa.html">Ropa</a> <a href="complementos.html">Complementos</a></p>
             </nav>
             <main>
                 <section>
@@ -30,7 +30,6 @@
                     complete: function (respuesta) {
                         var complementos = respuesta.data;
                         console.log(complementos);
-
                         var n = new URLSearchParams(window.location.search).get('nro');
                         if (n !== null) {
                             document.querySelector('section').innerHTML = '<h1>' + complementos[n].name + '</h1><h4>' + complementos[n].price + '</h4> <img src="images/' + complementos[n].pic + '"><p>' + complementos[n].description + '</p>';
